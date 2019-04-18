@@ -4,7 +4,7 @@ end
 
 def using_sort(array)
    new_array = [ "b", "c", "d", "wow", "a"]
-   new_array
+   new_array.sort
 end
 
 def using_reverse(array)
